@@ -2,11 +2,13 @@
     background: var(--primary-color);
     z-index: 999999999;
     left: 10px;
-    background: var(--primary-color);
+    background: #0d6efd;
     display: flex;
     height: 50px;
     align-items: center;
     padding-left: 10px;
+        background-image: url("https://photos.app.goo.gl/G2mTeZT5mH6xSZYMA");
+
 }
 
 .theme_toggler svg {
